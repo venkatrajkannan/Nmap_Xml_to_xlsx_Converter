@@ -40,6 +40,8 @@ Run the script:
 ```
 python ip_sort.py scan_results.xml
 ```
+**Note:** Change Line No 7 in the script to your actual XML file path.
+
 - Step 3: Get the Excel report
 
 The Excel file will be created in the same folder.
